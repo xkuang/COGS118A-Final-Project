@@ -1,0 +1,44 @@
+C value is  0.0009765625
+with score  0.754030400737
+C value is  0.001953125
+with score  0.754030400737
+C value is  0.00390625
+with score  0.754030400737
+C value is  0.0078125
+with score  0.754030400737
+C value is  0.015625
+with score  0.757254721327
+C value is  0.03125
+with score  0.760171963765
+C value is  0.0625
+with score  0.76140027637
+C value is  0.125
+with score  0.764931675111
+C value is  0.25
+with score  0.770459081836
+C value is  0.5
+with score  0.777368340243
+C value is  1.0
+with score  0.781820973438
+C value is  2.0
+with score  0.787962536466
+C value is  4.0
+with score  0.789344388147
+C value is  8.0
+with score  0.789497927222
+C value is  16.0
+with score  0.790726239828
+C value is  32.0
+with score  0.791186857055
+C value is  64.0
+with score  0.791493935207
+C value is  128.0
+with score  0.791647474282
+C value is  256.0
+with score  0.792108091509
+C value is  512.0
+with score  0.791954552434
+Optimal C value is  256.0
+C CV accuracy is  0.792108091509
+Testing acc  0.794668632148
+Training acc  0.793679555296

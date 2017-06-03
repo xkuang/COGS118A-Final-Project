@@ -1,0 +1,2 @@
+Training Acc:  1.0
+Testing Acc:  0.991329479769

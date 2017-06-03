@@ -1,0 +1,18 @@
+For k =  1 , CV acc is  0.7624750499
+For k =  3 , CV acc is  0.780899738984
+For k =  5 , CV acc is  0.788576692768
+For k =  7 , CV acc is  0.792722247812
+For k =  9 , CV acc is  0.799477967143
+For k =  11 , CV acc is  0.797328420083
+For k =  13 , CV acc is  0.802241670505
+For k =  15 , CV acc is  0.803930600338
+For k =  17 , CV acc is  0.805158912943
+For k =  19 , CV acc is  0.805926608322
+For k =  21 , CV acc is  0.806540764625
+For k =  23 , CV acc is  0.806387225549
+For k =  25 , CV acc is  0.805158912943
+For k =  27 , CV acc is  0.804851834792
+For k =  29 , CV acc is  0.80561953017
+Best k is  21
+Training Acc:  0.823070544516
+Testing Acc:  0.804496038327
